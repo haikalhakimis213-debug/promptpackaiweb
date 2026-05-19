@@ -26,7 +26,7 @@ import {
 import HeroScene from "@/components/HeroScene";
 
 const WHATSAPP = {
-  phone: "60XXXXXXXXX",
+  phone: "60104397245",
   messages: {
     packageA: "Hi saya mahu Package A - Bahasa Melayu + English SPM RM5",
     packageB: "Hi saya mahu Package B - Sejarah + Math RM6",
